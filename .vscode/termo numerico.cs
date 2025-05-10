@@ -8,7 +8,7 @@ public class tela()
     public int bloco3 = 0;  
     
     public int bloco4 = 0;  
-    
+    ssss
     public int bloco5 = 0;  
     public void sorteio(object sender, EventArgs e)
     {
